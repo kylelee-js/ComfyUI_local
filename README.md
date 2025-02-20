@@ -9,4 +9,4 @@ pip install -r requirements.txt
 
 `python main.py` 실행 후 http://localhost:8188/ 접속한다.
 
-사용하는 모델의 workfolw.json 파일을 드ㅊ래그 드롭으로 워크플로우 설정 후 모델 설정하기.
+사용하는 모델의 workfolw.json 파일을 드래그 드롭으로 워크플로우 설정 후 모델 설정하기.
