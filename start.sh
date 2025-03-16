@@ -1,2 +1,2 @@
 
-python main.py --enable-cors-header '*'
+python main.py --listen --enable-cors-header '*'
