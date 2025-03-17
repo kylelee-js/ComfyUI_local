@@ -19,6 +19,10 @@ pip3 install -r requirements.txt
 사용하는 모델의 workfolw.json 파일을 드래그 드롭으로 워크플로우 설정 후 모델 설정하기.
 
 
+> 커스텀 노드
+- https://github.com/yhayano-ponotech/comfyui-save-image-local (이미지 로컬 다운로드)
+- 매니저
+
 #### 참고
 https://wikidocs.net/275959
 https://huggingface.co/stabilityai/stable-diffusion-3.5-medium/tree/main
